@@ -2,7 +2,6 @@
 layout: project
 title: "MAE 3270 Final Project: Torque Wrench Design"
 subtitle: ""
-image: assets/images/materials-final/cadRender.jpg
 tags: [materials, fem, analysis]
 ---
 
