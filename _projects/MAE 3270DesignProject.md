@@ -1,4 +1,5 @@
 ---
+---
 layout: project
 title: "Torque Wrench Design & Finite Element Analysis - MAE 3270 Final Project"
 subtitle: ""
