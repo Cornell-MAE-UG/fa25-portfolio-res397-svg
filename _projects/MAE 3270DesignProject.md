@@ -12,7 +12,7 @@ The final project in MAE 3270 was to design a torque wrench. The wrench design n
 
 ### 1) CAD Model
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/Wrench CAD model" alt="Wrench CAD model" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Wrench CAD model.png" alt="Wrench CAD model" class="project-image" style="width:100%;">
 </div>
 
 ---
@@ -24,7 +24,7 @@ The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Te
 
 ### 3) Finite Element Model Setup (Loads and Boundary Conditions)
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/Loadsandboundaryconditions.heic" alt="Loads and boundary conditions" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Loadsandboundaryconditions.png" alt="Loads and boundary conditions" class="project-image" style="width:100%;">
 </div>
 - Summary: The four faces highlighted in green on the block were constrained to have zero displacement and the end of the wrench handle has a 600 lbf*in load applied perpendicular to its face.
 
