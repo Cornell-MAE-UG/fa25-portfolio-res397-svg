@@ -1,21 +1,18 @@
 ---
----
 layout: project
-title: "Torque Wrench Design & Finite Element Analysis - MAE 3270 Final Project"
+title: "MAE 3270 Final Project: Torque Wrench Design"
 subtitle: ""
-date: 2025-12-05
 image: assets/images/materials-final/cadRender.jpg
 tags: [materials, fem, analysis]
 ---
 
 ### Summary
-The goal of this project was to design a non-ratcheting torque wrench capable of meeting several design and performance specifications. I used a MATLAB script to perform analytical calculations and run through possible designs. I then created a CAD model in SOLIDWORKS and created a Finite Element Model (FEM) using Ansys Static Structural. I conducted analysis and then compared it to the results of the analytical calculations.
-
+The final project in MAE 3270 was to design a torque wrench. The wrench design needed to attain at least 1.0 mV/V output at the rated torque of 600 in-lbf, have a safety factor of Xo = 4 for yield or brittle failure, a safety factor of XK = 2 for crack growth from an assumed crack of depth 0.04 inches, and a fatigue stress safety factor of XS = 1.5. I wrote a MATLAB script to determine a design that would meet these parameters, made a CAD model in Fusion 360 and created a Finite Element Model (FEM) with Ansys Static Structural of my design.
 ---
 
 ### 1) CAD Model
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/cad-dimensions.jpg" alt="CAD model with key dimensions" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/cad-dimensions.jpg" alt="Wrench CAD model" class="project-image" style="width:100%;">
 </div>
 
 ---
