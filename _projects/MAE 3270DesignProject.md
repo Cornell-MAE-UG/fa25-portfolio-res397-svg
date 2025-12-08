@@ -12,7 +12,7 @@ The final project in MAE 3270 was to design a torque wrench. The wrench design n
 
 ### 1) CAD Model
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/cad-dimensions.jpg" alt="Wrench CAD model" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Wrench CAD model" alt="Wrench CAD model" class="project-image" style="width:100%;">
 </div>
 
 ---
