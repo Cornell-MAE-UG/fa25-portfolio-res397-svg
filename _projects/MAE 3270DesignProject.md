@@ -76,7 +76,7 @@ The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Te
 </div> -->
 
 #### 6.3 Strain at Gauge
-- **174.18µε** at strain gauge location
+- **174.18 µε** at strain gauge location
 
 <div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;">
   <!-- Main image (~2/3 width) -->
@@ -101,10 +101,10 @@ The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Te
 ---
 
 ### 7) Torque-Wrench Sensitivity (mV/V)
-- Measured strain from the strain gauge in the model **ε = 1599.3 µε**
+- From question 6, the measured strain from the strain gauge is **174.18 µε**
+- Bridge setup used: **half**
 - Gauge factor: **K = 2**
-- Bridge setup used:  **half**
-- **Sensitivity: 1.5993 mV/V** - meets the required criteria
+- **Sensitivity: 1.7418 mV/V** - which is larger than 1.0 mV/V so it meets the required criteria
 
 
 ---
