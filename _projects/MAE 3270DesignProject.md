@@ -2,7 +2,7 @@
 layout: project
 title: "MAE 3270 Final Project: Torque Wrench Design"
 subtitle: ""
-image: assets/images/MAXnormalwithmark.png
+image: assets/images/materials-final/MAXnormalwithmark.png
 tags: [materials, fem, analysis]
 ---
 
