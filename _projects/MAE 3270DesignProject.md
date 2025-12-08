@@ -42,31 +42,28 @@ The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Te
 <div class="image-block-full">
   <img src="{{ site.baseurl }}/assets/images/materials-final/Maximum Principal Stress.png" alt="Maximum principal stress contour" class="project-image" style="width:100%;">
 </div>
-Note hotspot location, value, and margin vs. σᵧ.
 
 ---
 
 ### 6) FEM Results Summary
 
 #### 6.1 Max Normal Stress (σ_max)
-- **Value:** **[fill] MPa** at **[location]**
+- **1.0371E5 psi** at stress concentrations that occur on the block above the drive
 
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/stress-max.png"
+  <img src="{{ site.baseurl }}/assets/images/materials-final/MAXnormalwithmark.png"
        alt="Max normal stress contour from FEM">
 </div>
-*Notes:* [hotspot, K_t reasoning, mesh independence, margin vs. σ_y].
 
 ---
 
 #### 6.2 Deflection at Load Point (δ)
-- **Value:** **[fill] mm** at **[node/feature]**
+- **1.0442 inches** at load point
 
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/deflection-loadpoint.png"
+  <img src="{{ site.baseurl }}/assets/images/materials-final/TotalDeformation.png"
        alt="Deflection field and load-point displacement">
 </div>
-*Notes:* [stiffness check vs. analytical beam calc, linearity].
 
 ---
 <!--
@@ -79,12 +76,12 @@ Note hotspot location, value, and margin vs. σᵧ.
 </div> -->
 
 #### 6.3 Strain at Gauge
-- **Value:** **1599.3 µε** at the set gauge location
+- **174.18µε** at strain gauge location
 
 <div style="display:flex; gap:1rem; clear:both; width:100%; margin:1rem 0 2rem;">
   <!-- Main image (~2/3 width) -->
   <div style="flex:2 1 0; min-width:0;">
-    <img src="{{ site.baseurl }}/assets/images/materials-final/strainGauge.png"
+    <img src="{{ site.baseurl }}/assets/images/materials-final/Strainatgauge.png"
          alt="Strain at gauge location (field view)"
          style="display:block; width:100%; height:auto;">
   </div>
