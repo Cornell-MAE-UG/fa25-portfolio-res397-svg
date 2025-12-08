@@ -109,12 +109,11 @@ The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Te
 ---
 
 ### 8) Strain Gauge Selection (type & dimensions)
-- Model / Part #: **[fill]** (link)
-- Resistance: **[120 Ω / 350 Ω]** — Gauge factor: **[fill]**
-- Grid **L × W:** **[fill] mm × [fill] mm**
-- Carrier/backing: **[fill]**; Temperature range: **[fill]**
-- **Bonding area available on part:** **[fill] mm × [fill] mm** (fits with margin)
+- Type / Part #: **Linear Strain Gauge/ C5K-06-S5145-350-33F** https://www.digikey.com/en/products/detail/micro-measurements-division-of-vishay-precision-group/C5K-06-S5145-350-33F/9857835
+- Resistance: **[350 Ω]**
+- Dimensions overall **L × W:** **3.1mm × 2.6mm**
+- Temperature range: **-75 ~ 205°C**
 
 <div class="image-wrapper-large">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/gauge-footprint.png" alt="Gauge footprint overlay" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Gauge.jpg" alt="Gauge footprint overlay" class="project-image" style="width:100%;">
 </div>
