@@ -34,13 +34,13 @@ The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Te
 <div class="image-block-full">
   <img src="{{ site.baseurl }}/assets/images/materials-final/Normal Elastic Strain.png" alt="Normal strain contours in gauge direction" class="project-image" style="width:100%;">
 </div>
-Call out the gauge pads and the local ε values where the gauges will be bonded.
+
 
 ---
 
 ### 5) Maximum Principal Stress Contour
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/stress-maxP.png" alt="Maximum principal stress contour" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Maximum Principal Stress.png" alt="Maximum principal stress contour" class="project-image" style="width:100%;">
 </div>
 Note hotspot location, value, and margin vs. σᵧ.
 
