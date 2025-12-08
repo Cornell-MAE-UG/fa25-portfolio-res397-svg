@@ -18,30 +18,21 @@ The final project in MAE 3270 was to design a torque wrench. The wrench design n
 ---
 
 ### 2) Material & Relevant Mechanical Properties
-- Material: **Ti-6Al-4V (Annealed)**
-- E = **119 GPa** *(= 17.3 Msi)*
-- ν = **0.31**
-- σᵧ = **910 MPa** *(= 132 ksi)*,
-- Fracture toughness **K₁C ≈ 107 MPa√m** *(= 97.3 ksi√in)*
-- Fatigue/Endurance limit **≈ 517 MPa** *(= 75 ksi)*
-- Source / datasheet: **Ansys Granta**
-
-Add writeup here
+The material used is a high-strength, low-alloy steel: AISI 4340 Quenched and Tempered. I used Ansys Granta to obtain the mechanical properties. The elastic modulus of the material is 30.5e6 psi, the Poisson’s ratio is 0.33, the tensile strength is 240E3 psi, the fracture toughness is 82.8e3 psi (in^½), and fatigue strength from Granta for 10^6 cycles is 100E3 psi.
 
 ---
 
 ### 3) Finite Element Model Setup (Loads and Boundary Conditions)
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/fem-setup.png" alt="Loads and boundary conditions" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Loadsandboundaryconditions.heic" alt="Loads and boundary conditions" class="project-image" style="width:100%;">
 </div>
-- Constraints: four faces of the block above the drive were constrained to have zero displacement
-- Load: A load of 600 lbf * in was applied at the end of the wrench handle
+- Summary: The four faces highlighted in green on the block were constrained to have zero displacement and the end of the wrench handle has a 600 lbf*in load applied perpendicular to its face.
 
 ---
 
 ### 4) Normal Strain Contours
 <div class="image-block-full">
-  <img src="{{ site.baseurl }}/assets/images/materials-final/strain-sgdir.png" alt="Normal strain contours in gauge direction" class="project-image" style="width:100%;">
+  <img src="{{ site.baseurl }}/assets/images/materials-final/Normal Elastic Strain.png" alt="Normal strain contours in gauge direction" class="project-image" style="width:100%;">
 </div>
 Call out the gauge pads and the local ε values where the gauges will be bonded.
 
