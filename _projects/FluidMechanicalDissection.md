@@ -1,3 +1,13 @@
+layout: project
+title: "MAE 3230 Fluid Mechanical Dissection"
+subtitle: ""
+image: assets/images/materials-final/MAXnormalwithmark.png
+tags: [materials, fem, analysis]
+---
+
+### Summary
+I contributed to .
+
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1rem 0 2rem;">
   <iframe
     src="https://www.youtube.com/embed/HcbzdTH58LI"
