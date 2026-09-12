@@ -13,6 +13,8 @@ permalink: /coursework/
 - **HADM 2250:** Finance
 - **HADM 4300:** Introduction to Wines
 
+---
+
 ## Junior Year
 **Spring 2026: Semester Abroad at Technical University of Denmark**
 - **38001:** Sustainable Entrepreneurship
