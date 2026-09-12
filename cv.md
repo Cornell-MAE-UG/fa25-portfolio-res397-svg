@@ -68,7 +68,7 @@ Member of Tau Beta Pi engineering honors society (top 12% of engineering class) 
 
 {% if site.baseurl %}
 <div class="resume-download">
-  <a href="{{ site.baseurl }}/assets/files/Raquel_Sweet_Resume.pdf" class="download-button" download>Download Resume (PDF)</a>
+  <a href="{{ site.baseurl }}/assets/files/Raquel_Sweet.pdf" class="download-button" download>Download Resume (PDF)</a>
 </div>
 {% else %}
 <div class="resume-download">
